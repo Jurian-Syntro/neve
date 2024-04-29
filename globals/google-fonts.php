@@ -1,6 +1,6 @@
 <?php
 /**
- * Updated on 01/04/24
+ * Updated on 29/04/24
  *
  * @package neve
  */
@@ -634,10 +634,20 @@ return array(
 	'Italiana' => array( '400',),
 	'Italianno' => array( '400',),
 	'Itim' => array( '400',),
+	'Jacquard 12 Charted' => array( '400',),
+	'Jacquard 24' => array( '400',),
 	'Jacquarda Bastarda 9' => array( '400',),
+	'Jacquarda Bastarda 9 Charted' => array( '400',),
 	'Jacques Francois' => array( '400',),
 	'Jacques Francois Shadow' => array( '400',),
 	'Jaldi' => array( '400', '700',),
+	'Jersey 10' => array( '400',),
+	'Jersey 10 Charted' => array( '400',),
+	'Jersey 15' => array( '400',),
+	'Jersey 15 Charted' => array( '400',),
+	'Jersey 20' => array( '400',),
+	'Jersey 20 Charted' => array( '400',),
+	'Jersey 25' => array( '400',),
 	'JetBrains Mono' => array( '100', '200', '300', '400', '500', '600', '700', '800', '100italic', '200italic', '300italic', '400italic', '500italic', '600italic', '700italic', '800italic',),
 	'Jim Nightshade' => array( '400',),
 	'Joan' => array( '400',),
@@ -848,6 +858,7 @@ return array(
 	'Metrophobic' => array( '400',),
 	'Michroma' => array( '400',),
 	'Micro 5' => array( '400',),
+	'Micro 5 Charted' => array( '400',),
 	'Milonga' => array( '400',),
 	'Miltonian' => array( '400',),
 	'Miltonian Tattoo' => array( '400',),
@@ -1139,6 +1150,7 @@ return array(
 	'Noto Serif Vithkuqi' => array( '400', '500', '600', '700',),
 	'Noto Serif Yezidi' => array( '400', '500', '600', '700',),
 	'Noto Traditional Nushu' => array( '300', '400', '500', '600', '700',),
+	'Noto Znamenny Musical Notation' => array( '400',),
 	'Nova Cut' => array( '400',),
 	'Nova Flat' => array( '400',),
 	'Nova Mono' => array( '400',),
@@ -1224,6 +1236,7 @@ return array(
 	'Pirata One' => array( '400',),
 	'Pixelify Sans' => array( '400', '500', '600', '700',),
 	'Plaster' => array( '400',),
+	'Platypi' => array( '300', '400', '500', '600', '700', '800', '300italic', '400italic', '500italic', '600italic', '700italic', '800italic',),
 	'Play' => array( '400', '700',),
 	'Playball' => array( '400',),
 	'Playfair' => array( '300', '400', '500', '600', '700', '800', '900', '300italic', '400italic', '500italic', '600italic', '700italic', '800italic', '900italic',),
@@ -1401,6 +1414,7 @@ return array(
 	'Scope One' => array( '400',),
 	'Seaweed Script' => array( '400',),
 	'Secular One' => array( '400',),
+	'Sedan' => array( '400', '400italic',),
 	'Sedgwick Ave' => array( '400',),
 	'Sedgwick Ave Display' => array( '400',),
 	'Sen' => array( '400', '500', '600', '700', '800',),
